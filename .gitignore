@@ -1,0 +1,22 @@
+# Chrome Extension
+*.crx
+*.pem
+
+# Icons (users should generate their own)
+# Uncomment if you want to commit generated icons
+# icons/*.png
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
